@@ -11,4 +11,5 @@ dependencies:
   - numpy
   - matplotlib
   - python=3.8
+  - scikit-learn
 prefix: /opt/homebrew/Caskroom/miniforge/base/envs/encn423_env
