@@ -1,0 +1,14 @@
+name: encn423_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - seaborn
+  - jupyterlab
+  - scipy
+  - jupyter
+  - pandas
+  - numpy
+  - matplotlib
+  - python=3.8
+prefix: /opt/homebrew/Caskroom/miniforge/base/envs/encn423_env
