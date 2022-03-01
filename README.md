@@ -33,7 +33,16 @@ conda activate encn423_env
 python -m ipykernel install --user --name=encn423_env
 ```
 
-## Use
+## Local Updates:
+
+If you have cloned the github repo to your local machine, you can update the contents by
+
+```bash
+cd encn423
+git pull
+```
+
+## Use:
 
 If you are a local user, open a Jupyter Notebook server from the terminal
 
