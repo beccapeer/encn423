@@ -9,9 +9,11 @@ Week 1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2
 
 Week 2: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beccapeer/encn423/HEAD?labpath=Wiki_rua.ipynb)
 
+Week 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beccapeer/encn423/HEAD?labpath=Wiki_toru.ipynb)
+
 ## Local Installation:
 
-Ensure you have Anaconda Python (minimum version 3.6) installed. Then
+Ensure you have Anaconda Python (minimum version 3.6) installed. Then:
 
 1. Clone the repo
 
@@ -35,7 +37,7 @@ python -m ipykernel install --user --name=encn423_env
 
 ## Local Updates:
 
-If you have cloned the github repo to your local machine, you can update the contents by
+If you have cloned the github repo to your local machine, you can update the contents by:
 
 ```bash
 cd encn423
@@ -44,7 +46,7 @@ git pull
 
 ## Use:
 
-If you are a local user, open a Jupyter Notebook server from the terminal
+If you are a local user, open a Jupyter Notebook server from the terminal:
 
 ```bash
 jupyter notebook
