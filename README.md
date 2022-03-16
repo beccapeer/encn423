@@ -11,6 +11,8 @@ Week 2: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2
 
 Week 3: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beccapeer/encn423/HEAD?labpath=Wiki_toru.ipynb)
 
+Week 4: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beccapeer/encn423/HEAD?labpath=Wiki_wha.ipynb)
+
 ## Local Installation:
 
 Ensure you have Anaconda Python (minimum version 3.6) installed. Then:
